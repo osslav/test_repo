@@ -12,6 +12,13 @@ struct apple
     char* color;
 };
 
+struct pineapple
+{
+    int size;
+    char* color;
+};
+
+
 int main(int argc, char *argv[])
 {
     //QCoreApplication a(argc, argv);
